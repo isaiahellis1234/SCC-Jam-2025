@@ -1,0 +1,29 @@
+Game Controls:
+
+MOUSE:
+Left Click (single) -- Select one unit (You cannot select medic)
+Left Click + Drag -- Box-select units.
+Shift + Left Drag -- Add units in the drag box to current selection.
+Right Click (no drag) -- It selects one enemy to attack.
+Right Click + Drag 
+                    -- Selects multiple enemies.
+                    -- Assigns enemies to each unit.
+                    -- Units attack every enemy unit all dead.
+Mouse Wheel -- Zoom in/out.
+Middle Mouse Drag -- Pan camera
+
+KEYBOARD:
+W / A / S / D -- Movement
+Number keys (1-6) -- Selects that unit only.
+Control + (1-6) -- Same as above but selects multiple.
+Control + A -- Select all units (not medic).
+Space -- Pause / Unpause
+- / + -- Adjust time speed.
+R -- Resets time scale to 1x.
+Enter during intermission -- Start next wave immediately
+H -- Buy Hull Upgrade
+U -- Buy Shielding Upgrade
+E -- Buy Engines upgrade
+L -- Buy Life Support upgrade
+
+Have Fun!
